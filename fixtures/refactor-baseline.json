@@ -1,0 +1,802 @@
+[
+  {
+    "state": {
+      "product": "190230",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "5d76884199cc0017062dacbca55d4f76e451afe13c6e0ca545ae42207ad80a83"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "bd989e308a642ba077b1c9569203a2b206de3be28d216f1fef31a5ff82215d72"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "e81c4f4c481b33af08c1b71a6636d66987412b20f46395c873c0d6e06d982887"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "41b1ff6c3db3b5dd4850a33c58d4bbb1ab901e51a99d8a6ad0a32fde36eda4b8"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "29bdaace2144c4cf9a283078175aa3cb813ee06f7990ecd7b430dadafc134c4e"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "60b0ceaefbeae69022c79fcc29d07f4688d38f4b8aa52b1764f70a4488d32c2c"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "71b0cfc71a0a7a2d3dabce63e1f3f31d5e0f5059347f522d4aa8b740182ed746"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "fac7dcff1ee76ccecab7149c11fadbb83ac84dd315f50b0f83012c6be091f093"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "a28dec1f0632ea239efdc132843a3a942ef1bbc9b53bc32a09738f8f13be0907"
+  },
+  {
+    "state": {
+      "product": "190230",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "c34b73a96452661462265e9363e752f6a2a41a27d4793ef7fdabbec0669f3226"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "0a53c0735dd5a3f6be7f5777a0863b489a2f89fb2734c5130cc30dc58bf92658"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "eab8de5e8812658166bcf183cd9f98596f2a9fe92905e188bdc967bc98418b94"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "b5ac12399ec8909d5e559f4ce3a72332b04238d7f8ab18931584379d8d85ef29"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "259705099e45ff21a478971a9275af3d4abb60ff6332a38de7077703ca81251f"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "85dda9fb341795d1af6a891d3a45da9472b4ee3070f7a6a020e5c4d09ed38a95"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "30d8ddd4c2cfcfaebb7f6803c4f6fdc0526405603b47d96de0002a4bb3c0cba5"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "52587b3fe5c57c00d36924032a2156432a69ce96a5b195e836b46cace388702c"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "81f9ba6a1ffb37f1171a279b2764cfe6424c2449989e1a96d292eb94bf90a381"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "884156b3df2bc3850cd38888765515b4a9fdefad2896db8ad28af18e32a75e8a"
+  },
+  {
+    "state": {
+      "product": "190590",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "85f9a4ee8e1b8e9aa0cc676b4a2a2da51cc3435d1c50d00479a7685338ae397e"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "95ea2e0a5ac1d553efbcadc54f3f8f87dfcf554f5b8ec86922c3b0a1a29d8fe3"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "466bde2b9d3be105b6677d559787b0fe1db33d0c515bb30d09c6e472abd687ec"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "5c1bed68c1d6a14cc58bcdb5ded9657ab4184d3bddd228e03dd9387583f5e11e"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "ce38c84c57958a0f235ced779967c12cf56ef3f5f293edfbaa0cbe6695c8d4d4"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "155a4331a937dbd8d22b2275a0e02047f525cd5e3fb5928be73379a3eb977299"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "3b7502a6ed1dd137ca87a7581b4d9188add82b0084147246d1b99f4789ea5726"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "253ae9a80386e8f5175dbf602199795dd32fe0a987f1d103fcf21130264f7bb6"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "7e38121fa634336a49c0d69480238916dda34dd098eaf8c7576df4b4ff868489"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "5350a129df0a54823f3c676e5364b0651b67e3bdcfd860a4eaa9e290cab00908"
+  },
+  {
+    "state": {
+      "product": "1806",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "5cedd27d802dab6f0300be7d495da2bff5e483f10669baff01375f7825c1032f"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "380428ac305f1d16cc14ffd904e314ef4eb12462bea2e5862e35bc9761a21051"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "481ec82dd881327349ad01df6ec7367633a4e2baa7a6a3d639426309fbb548b0"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "bb7b200f9d107ed759ce6b0137e540aaf42609ca5fc65f19cad193679abdb6d6"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "8013f27057bd412f97260446f7c30f4475605c3c3e26c83645c27203f01a81e8"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "401298c01fa7a0bf2383071e2f75e1f7e9ab6e5181946f8ff5e9e135dd3bbd37"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "8f2d77845aefdde55bb4f7c00d94529cc98d6d120a27ee6b94d020608a60ed78"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "856ba80f3ad6d42a1af2c7480d324d19666f2ee88c20560ffe61ead41f61480c"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "82ae036efe8295b7556a0d54e13902399c90114129452a4ca97c833623eecd6a"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "320c1e7df408256355fedd7f35e0dd89a8e8ef3376ac97d4a9ade6c65290bb89"
+  },
+  {
+    "state": {
+      "product": "210500",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "acb73b093c1996c9caa4aa664a530c6f2d11d833dc5399c88c48e4edcbf488a0"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "d567ca77fe68b4d63ccebe2bc92a96048b08b46d7b49af9974d476a47b61444a"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "e708691c8c26da652d016d95c5358e1780c05286dcb8ecef7ccd494e9b965c72"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "1888efea55f6646209ff724e0e0f9e80d99d625bb15b719a5ffffa9f0ea1b849"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "81ac98740339c7dcda33d0c8010abf56121244b61763c3d340191e67903dc9c2"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "1eb2054da4b8aac48fdc333cbbd9fb66d777a1c1cc95ce860c4bdf9c4c423dd7"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "d599de25a0b6845a28548d82d2c8dab7032e418269c610666f0636ac3c01aab8"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "a98426741827f89c42e37517cde568d442bb9b362a0d63c82e4ee1259cadbac8"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "cb5464d1031f03ffeb1ba7127d6b55333f59dd59bf54d7c386a9dbdae7718f48"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "cbaed006ac2cf461ac54ced66f99a05a831ad67af86c3535b407570caac251cd"
+  },
+  {
+    "state": {
+      "product": "210390",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "a2d660b3fcf5a3a0ad22615cdeaddb49c55219a94e6436b3f77765cdb1252ee9"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "d384bdc6bea713e15adfbb16b9a8e40006bb8fbc8722b0fe4c363c3ac957bcfd"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "0dd08c15c65dc03355006a7a559bf91b225f4c025e83ba53ac94423516b748d3"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "cbe49f11124ad1e8572061ef637a454203a2cb99abafb5fec5b0113ff0bc691c"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "58df9e95ef2d63257b2672065edab5a6164f17d8ea8851f659e7e9979368e038"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "1299243f1169b22626058996ced7267971ed65502b79564bc816b6a07e164861"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "a06824a00e05f23b830c062b5b74c2d96ff3458243417489fcb70d4bac1fea6d"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "3efaaaf1920d750f8dbf8c63c6a08816798faedf289b033db0ec9c345c2e15dd"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "3fa5bad2c41a4a4d5cbac3fb6a77c3ed069d8476d3d216549ee884d628c6735c"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "b81146da3aa3652b76053220d3cf70f76c48f575b8653f4cef2392c9b8896bc4"
+  },
+  {
+    "state": {
+      "product": "2202",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "f0f47159c227803e2dbed6a26ee6fa012d3fb49bbc511b11e8d6ac18507b5e39"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "4c3ca0bf92b5356a86625334d0554cde9bbc8e7005ced6f4f3ee32d2629a32e9"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "a959e1e549e5a6390c52d1c243119db112a06b5098de697e361219a89a5ce267"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "842ae7344b84cc3616f7d0523628d347a11cf231abdc396057e23394de724d39"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "5ba09e09218aa2ff615a5819bdbdfcff4381e16e7b75cb03fa4593ad4ccfdfb3"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "f1dd9b5d789edf1628523f8a8ba2b5e2d936151202219cfaa58ba97f78a6181a"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "dbc755b85d9b7d2e971d9dc78e0bd108576e72738c755fe8312a890f9d969472"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "a70df145fac64629c89c42e47bc6dc3212f0fc3bacb3c5a5f36bd0d3a8a4255b"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "aa3f7256f710205ab9b37642271ad77c4156e438f60a763bd026e74dfd0920aa"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "448bd41001ddacd29685da9557e11ea85841d19daae6b29fc92429c7cd97e070"
+  },
+  {
+    "state": {
+      "product": "170490",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "5a16dfb6843055d2127d7675633e960d3f7857f71bc721f013efcfd75080d00e"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "769d4a60d50588ad5be84e79656153cbb095ef2df4f5904aee3231da9e99f9fb"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "266f1095a7475bd3b1aa92f4e700269dccee8129c8969177c5b94b5818ca5214"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "0b51958d14a6e79de1e2fd332e236c18603994fc44dc90baa3e473737a57c2f9"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "1fc24c3bbeec2f007ad05719633b8e2da9032f93f9cb3ce3e4530373c1adff8d"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "0e4ed6a3b62c64d265ecc74bfa3535a8a95454ae6a9a1aea50cfd9af69180162"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "90b0bd671fc72fc4a92d5a6c87fc252e330c07bfb3b6528aef639e875d131c4e"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "76585da824f83accec2d2f79f7e85241e99b0643a583c4f038c45c2efc07db8b"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "f130fa49ec4bda104e3434bc7522958dd1133595159f2fb7f99bf72299ac6aec"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "4087dd9230f42067bf3894b5ca284183b45735db32598672295c760469d31268"
+  },
+  {
+    "state": {
+      "product": "190531",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "0a16b10fc4444575e3efaea744102832a83aab942b32ced96950d6e8d57e697b"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "e205ce88d922c8c4ba056fc7e17b4ec446a252194bbdba3bbc9d1de3df6db00a"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "476879958e444956342cf1dbfac49ea565183b4a93cc36e4b7443d73dff3516a"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "899fa2370eab01ec88a7403a2be0cda8873767296fcb4d2000ee0220fc03e3d0"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "3bcc4255b8c7723bf91aa61f77dd7da423140e717a3e819ad99440a8eb088f83"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "00bc1e321aff48aeef5ea8ec757dcc5fbc8dd15ba9f48dec1aef006aa947a859"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "9e67ecbdbe940e525a96d083a36fe7c40d7f575e735a547ced3cfdf23d2c9136"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "b8b8f18c91d0f96dd3ace7f8596797b9a6d5a4bea9eb8a2d423f449d60634dfb"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "4c9fc0aefd5f4798570e844fee9f2c23aeb45b7e742c961f4444bbd6b6871c3a"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "75f4fa31f23404b618ee5f66a6f2166dbadcd0ea9761a967a228822a5041eab4"
+  },
+  {
+    "state": {
+      "product": "190532",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "e9836048adf6bbab41db8ce60f6f4f0e153943df89e985b51920e91fe0128b0e"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2021,
+      "end": 2022
+    },
+    "digest": "b0de621b3727a1e224f22faa055f078bf8e735e1be19c722c7c6276dd2dd15f1"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2021,
+      "end": 2023
+    },
+    "digest": "b56a274075498b91669c83df60cb3960e2bd4ba40a364276ef79c78f803482a0"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2021,
+      "end": 2024
+    },
+    "digest": "746ef9eb12704e636e7b0fc041a8a1050b76fde324b8cbf2cc2e514bf7d38311"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2021,
+      "end": 2025
+    },
+    "digest": "04b4f8084648b86f58cafd60a0de37fe746f9d9d0ca2a062fcab88bcbcb0a2c1"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2022,
+      "end": 2023
+    },
+    "digest": "04d88ad0856e1d2aa01252a4faf5ee01788318c7e0d99cb39209beca2aa6c217"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2022,
+      "end": 2024
+    },
+    "digest": "22e1e9c4033319c8dbba24941aee601a6bb3094523994d73c86d83abd70c900a"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2022,
+      "end": 2025
+    },
+    "digest": "9726aa741f8ce54cf91a0125df3965909b611a8d636c4fa86e989d0d6632f56a"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2023,
+      "end": 2024
+    },
+    "digest": "787ba54ada970d42e1c1a67e38cb0d9d21ad4c5b117b09b96109a331c368005f"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2023,
+      "end": 2025
+    },
+    "digest": "2b19171af0ef9ce6889e011756036c6f8c5776ce8b0139e2831ee559e9725165"
+  },
+  {
+    "state": {
+      "product": "190410",
+      "start": 2024,
+      "end": 2025
+    },
+    "digest": "170a831882d4503132eb4dcff58f1c3d4ae5bf6d2d8477043cfc4b90cd3ad041"
+  }
+]

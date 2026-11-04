@@ -1,0 +1,15 @@
+export const CHAT_LIMITS = Object.freeze({
+  questionCharacters: 1200,
+  messageCharacters: 1800,
+  messages: 8,
+  requestCharacters: 12000,
+  lookupCharacters: 80,
+  comparisonCountries: 5,
+  modelTurns: 4,
+  outputTokens: 1600,
+  sources: 8,
+  timeoutMilliseconds: 90000,
+  cacheMilliseconds: 86400000,
+  requestsPerMinute: 5,
+  answersPerDay: 40,
+});

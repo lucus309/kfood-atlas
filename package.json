@@ -6,8 +6,10 @@
   "scripts": {
     "build": "node scripts/build-chat.mjs",
     "test:chat": "node test-chat.mjs",
+    "test": "node scripts/test.mjs",
     "start": "node scripts/preview-chat.mjs",
-    "test": "node scripts/test.mjs"
+    "format": "prettier --write \"dist/*.mjs\" \"dist/*.css\" \"server/*.mjs\" \"scripts/*.mjs\" \"test-*.mjs\"",
+    "format:check": "prettier --check \"dist/*.mjs\" \"dist/*.css\" \"server/*.mjs\" \"scripts/*.mjs\" \"test-*.mjs\""
   },
   "keywords": [],
   "author": "",
@@ -18,5 +20,8 @@
   "private": true,
   "engines": {
     "node": ">=22.13.0"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
   }
 }

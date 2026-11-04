@@ -1,0 +1,7 @@
+node_modules/
+.build/
+dist/server/
+dist/.openai/
+*.json
+!package.json
+!.prettierrc.json
