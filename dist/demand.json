@@ -1,0 +1,610 @@
+{
+  "meta": {
+    "collected": "2026-11-02",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "product": "190230",
+    "unit": "100 million servings",
+    "source": "WINA, reproduced in NISSIN FY 3/2026 H1 Financial Supplemental Data, p.19",
+    "sourceUrl": "https://media.www.nissin.com/en_jp/ir/library/file/2026/2q_supplemental.pdf#page=20",
+    "originalUrl": "https://instantnoodles.org/en/noodles/demand/table/",
+    "sourcePublished": "2025-11-10",
+    "scope": "Instant noodles, all origins including local production. HS190230 is broader. China and Hong Kong are a combined region. Rounded to 0.1 hundred-million servings. Reference only, not scored.",
+    "latestVerifiedYear": 2024
+  },
+  "rows": [
+    {
+      "country": 360,
+      "name": "인도네시아",
+      "values": [
+        126.4,
+        132.7,
+        142.6,
+        145.4,
+        146.8
+      ]
+    },
+    {
+      "country": 704,
+      "name": "베트남",
+      "values": [
+        70.3,
+        85.6,
+        84.8,
+        81.3,
+        81.4
+      ]
+    },
+    {
+      "country": 699,
+      "name": "India",
+      "values": [
+        67.3,
+        75.6,
+        75.8,
+        86.8,
+        83.2
+      ]
+    },
+    {
+      "country": 392,
+      "name": "일본",
+      "values": [
+        59.7,
+        58.5,
+        59.8,
+        58.4,
+        59.0
+      ]
+    },
+    {
+      "country": 608,
+      "name": "필리핀",
+      "values": [
+        44.7,
+        44.4,
+        42.9,
+        43.9,
+        44.9
+      ]
+    },
+    {
+      "country": 764,
+      "name": "태국",
+      "values": [
+        37.1,
+        36.3,
+        38.7,
+        39.5,
+        40.8
+      ]
+    },
+    {
+      "country": 524,
+      "name": "Nepal",
+      "values": [
+        15.4,
+        15.9,
+        16.5,
+        15.7,
+        16.1
+      ]
+    },
+    {
+      "country": 458,
+      "name": "말레이시아",
+      "values": [
+        15.7,
+        15.8,
+        15.5,
+        16.4,
+        16.9
+      ]
+    },
+    {
+      "country": 682,
+      "name": "사우디아라비아",
+      "values": [
+        8.3,
+        8.5,
+        8.7,
+        5.2,
+        6.4
+      ]
+    },
+    {
+      "country": 104,
+      "name": "Myanmar",
+      "values": [
+        6.6,
+        7.6,
+        7.7,
+        7.7,
+        8.0
+      ]
+    },
+    {
+      "country": 50,
+      "name": "Bangladesh",
+      "values": [
+        3.7,
+        4.3,
+        3.8,
+        3.4,
+        3.7
+      ]
+    },
+    {
+      "country": 116,
+      "name": "Cambodia",
+      "values": [
+        3.7,
+        4.1,
+        4.2,
+        4.2,
+        4.4
+      ]
+    },
+    {
+      "country": 792,
+      "name": "Türkiye",
+      "values": [
+        1.9,
+        3.6,
+        4.2,
+        4.3,
+        4.5
+      ]
+    },
+    {
+      "country": 398,
+      "name": "카자흐스탄",
+      "values": [
+        2.8,
+        3.2,
+        3.6,
+        3.0,
+        3.1
+      ]
+    },
+    {
+      "country": 586,
+      "name": "Pakistan",
+      "values": [
+        2.2,
+        2.3,
+        2.4,
+        2.5,
+        2.7
+      ]
+    },
+    {
+      "country": 860,
+      "name": "Uzbekistan",
+      "values": [
+        2.1,
+        2.1,
+        2.1,
+        2.2,
+        3.8
+      ]
+    },
+    {
+      "country": 144,
+      "name": "Sri Lanka",
+      "values": [
+        1.8,
+        1.9,
+        2.0,
+        2.0,
+        2.2
+      ]
+    },
+    {
+      "country": 702,
+      "name": "싱가포르",
+      "values": [
+        1.6,
+        1.4,
+        1.3,
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "country": 364,
+      "name": "Iran",
+      "values": [
+        0.6,
+        0.6,
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    {
+      "country": 36,
+      "name": "호주",
+      "values": [
+        4.4,
+        4.5,
+        4.8,
+        5.0,
+        5.4
+      ]
+    },
+    {
+      "country": 554,
+      "name": "New Zealand",
+      "values": [
+        0.9,
+        0.9,
+        1.0,
+        1.1,
+        1.1
+      ]
+    },
+    {
+      "country": 842,
+      "name": "미국",
+      "values": [
+        50.5,
+        49.8,
+        51.5,
+        51.0,
+        51.5
+      ]
+    },
+    {
+      "country": 124,
+      "name": "캐나다",
+      "values": [
+        1.9,
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ]
+    },
+    {
+      "country": 76,
+      "name": "Brazil",
+      "values": [
+        27.2,
+        28.0,
+        28.3,
+        25.5,
+        25.9
+      ]
+    },
+    {
+      "country": 484,
+      "name": "멕시코",
+      "values": [
+        11.6,
+        12.6,
+        13.4,
+        15.5,
+        16.1
+      ]
+    },
+    {
+      "country": 320,
+      "name": "Guatemala",
+      "values": [
+        2.6,
+        2.7,
+        2.8,
+        3.5,
+        4.0
+      ]
+    },
+    {
+      "country": 604,
+      "name": "Peru",
+      "values": [
+        1.6,
+        1.7,
+        1.7,
+        1.8,
+        1.8
+      ]
+    },
+    {
+      "country": 152,
+      "name": "Chile",
+      "values": [
+        0.2,
+        0.5,
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    {
+      "country": 170,
+      "name": "Colombia",
+      "values": [
+        0.2,
+        0.2,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "country": 32,
+      "name": "Argentina",
+      "values": [
+        0.0,
+        0.2,
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    {
+      "country": 188,
+      "name": "Costa Rica",
+      "values": [
+        0.1,
+        0.2,
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    {
+      "country": 643,
+      "name": "러시아",
+      "values": [
+        20.0,
+        21.0,
+        22.0,
+        22.0,
+        22.9
+      ]
+    },
+    {
+      "country": 826,
+      "name": "영국",
+      "values": [
+        4.2,
+        4.2,
+        4.0,
+        4.1,
+        5.5
+      ]
+    },
+    {
+      "country": 276,
+      "name": "독일",
+      "values": [
+        3.7,
+        3.6,
+        3.6,
+        3.9,
+        4.3
+      ]
+    },
+    {
+      "country": 616,
+      "name": "Poland",
+      "values": [
+        3.3,
+        3.4,
+        3.8,
+        3.8,
+        3.7
+      ]
+    },
+    {
+      "country": 251,
+      "name": "France",
+      "values": [
+        0.9,
+        1.0,
+        1.1,
+        1.1,
+        1.6
+      ]
+    },
+    {
+      "country": 724,
+      "name": "Spain",
+      "values": [
+        0.8,
+        0.9,
+        0.9,
+        0.8,
+        0.9
+      ]
+    },
+    {
+      "country": 203,
+      "name": "Czechia",
+      "values": [
+        0.7,
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    {
+      "country": 752,
+      "name": "Sweden",
+      "values": [
+        0.6,
+        0.6,
+        0.6,
+        0.8,
+        0.8
+      ]
+    },
+    {
+      "country": 528,
+      "name": "네덜란드",
+      "values": [
+        0.5,
+        0.5,
+        0.6,
+        0.8,
+        0.8
+      ]
+    },
+    {
+      "country": 688,
+      "name": "Serbia",
+      "values": [
+        null,
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ]
+    },
+    {
+      "country": 348,
+      "name": "Hungary",
+      "values": [
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    {
+      "country": 380,
+      "name": "Italy",
+      "values": [
+        0.3,
+        0.4,
+        0.4,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "country": 208,
+      "name": "Denmark",
+      "values": [
+        0.1,
+        0.1,
+        0.2,
+        0.3,
+        0.3
+      ]
+    },
+    {
+      "country": 56,
+      "name": "Belgium",
+      "values": [
+        0.1,
+        0.1,
+        0.2,
+        0.3,
+        0.3
+      ]
+    },
+    {
+      "country": 246,
+      "name": "Finland",
+      "values": [
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    {
+      "country": 757,
+      "name": "Switzerland",
+      "values": [
+        0.1,
+        0.1,
+        0.1,
+        0.2,
+        0.1
+      ]
+    },
+    {
+      "country": 566,
+      "name": "Nigeria",
+      "values": [
+        24.6,
+        26.2,
+        27.9,
+        29.8,
+        30.0
+      ]
+    },
+    {
+      "country": 710,
+      "name": "South Africa",
+      "values": [
+        3.5,
+        4.1,
+        4.8,
+        5.7,
+        6.1
+      ]
+    },
+    {
+      "country": 818,
+      "name": "Egypt",
+      "values": [
+        3.5,
+        4.0,
+        4.6,
+        10.8,
+        12.6
+      ]
+    },
+    {
+      "country": 231,
+      "name": "Ethiopia",
+      "values": [
+        1.2,
+        1.3,
+        1.4,
+        1.5,
+        1.6
+      ]
+    },
+    {
+      "country": 404,
+      "name": "Kenya",
+      "values": [
+        0.8,
+        1.0,
+        1.3,
+        1.6,
+        1.6
+      ]
+    },
+    {
+      "country": null,
+      "region": "CN-HK",
+      "name": "중국·홍콩 합계",
+      "memberCountries": [
+        156,
+        344
+      ],
+      "values": [
+        463.6,
+        439.9,
+        450.7,
+        422.1,
+        438.0
+      ]
+    }
+  ]
+}

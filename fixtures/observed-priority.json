@@ -1,0 +1,4543 @@
+[
+  {
+    "product": "190230",
+    "count": 44,
+    "scenarios": [
+      {
+        "top": [
+          "BE",
+          "MX",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 70.54003565386839,
+            "observedInputs": 9,
+            "effectiveWeights": {
+              "economyLevel": 0.125,
+              "economyCagr": 0.125,
+              "marketLevel": 0.125,
+              "marketCagr": 0.125,
+              "koreaRecent": 0.0625,
+              "koreaPeriod": 0.0625,
+              "shareRecent": 0.0625,
+              "sharePeriod": 0.0625,
+              "demandGrowth": 0.25
+            }
+          },
+          {
+            "iso": "MX",
+            "observedEvidenceIndex": 69.46107813487468,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.125,
+              "economyCagr": 0.125,
+              "marketLevel": 0.125,
+              "marketCagr": 0.125,
+              "koreaRecent": 0.0625,
+              "koreaPeriod": 0.0625,
+              "shareRecent": 0.0625,
+              "sharePeriod": 0.0625,
+              "culture": 0.08333333333333333,
+              "intention": 0.08333333333333333,
+              "demandGrowth": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 68.6873455740281,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.125,
+              "economyCagr": 0.125,
+              "marketLevel": 0.125,
+              "marketCagr": 0.125,
+              "koreaRecent": 0.0625,
+              "koreaPeriod": 0.0625,
+              "shareRecent": 0.0625,
+              "sharePeriod": 0.0625,
+              "culture": 0.08333333333333333,
+              "intention": 0.08333333333333333,
+              "demandGrowth": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "KW",
+          "BE",
+          "MX"
+        ],
+        "rows": [
+          {
+            "iso": "KW",
+            "observedEvidenceIndex": 72.32219715376604,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 72.21204040771751,
+            "observedInputs": 9,
+            "effectiveWeights": {
+              "economyLevel": 0.075,
+              "economyCagr": 0.075,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "demandGrowth": 0.2833333333333333
+            }
+          },
+          {
+            "iso": "MX",
+            "observedEvidenceIndex": 71.9892218861913,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.075,
+              "economyCagr": 0.075,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.09444444444444444,
+              "intention": 0.09444444444444444,
+              "demandGrowth": 0.09444444444444444
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "US",
+          "MT",
+          "BE"
+        ],
+        "rows": [
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 69.66236616415769,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.175,
+              "economyCagr": 0.175,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.07222222222222223,
+              "intention": 0.07222222222222223,
+              "demandGrowth": 0.07222222222222223
+            }
+          },
+          {
+            "iso": "MT",
+            "observedEvidenceIndex": 69.11621336371958,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 68.86803090001928,
+            "observedInputs": 9,
+            "effectiveWeights": {
+              "economyLevel": 0.175,
+              "economyCagr": 0.175,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "demandGrowth": 0.21666666666666667
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "BE",
+          "MT",
+          "LU"
+        ],
+        "rows": [
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 70.54537374105084,
+            "observedInputs": 9,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.075,
+              "marketCagr": 0.075,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "demandGrowth": 0.2833333333333333
+            }
+          },
+          {
+            "iso": "MT",
+            "observedEvidenceIndex": 69.95322804581743,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "LU",
+            "observedEvidenceIndex": 68.85959736202707,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "MX",
+          "BE",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "MX",
+            "observedEvidenceIndex": 70.8662677168914,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.175,
+              "marketCagr": 0.175,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.07222222222222223,
+              "intention": 0.07222222222222223,
+              "demandGrowth": 0.07222222222222223
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 70.53469756668594,
+            "observedInputs": 9,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.175,
+              "marketCagr": 0.175,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "demandGrowth": 0.21666666666666667
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 70.19569949749103,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.175,
+              "marketCagr": 0.175,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.07222222222222223,
+              "intention": 0.07222222222222223,
+              "demandGrowth": 0.07222222222222223
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "BE",
+          "US",
+          "MX"
+        ],
+        "rows": [
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 72.14028155492267,
+            "observedInputs": 9,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.0375,
+              "koreaPeriod": 0.0375,
+              "shareRecent": 0.0375,
+              "sharePeriod": 0.0375,
+              "demandGrowth": 0.2833333333333333
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 68.86043736317859,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.0375,
+              "koreaPeriod": 0.0375,
+              "shareRecent": 0.0375,
+              "sharePeriod": 0.0375,
+              "culture": 0.09444444444444444,
+              "intention": 0.09444444444444444,
+              "demandGrowth": 0.09444444444444444
+            }
+          },
+          {
+            "iso": "MX",
+            "observedEvidenceIndex": 67.40268398744972,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.0375,
+              "koreaPeriod": 0.0375,
+              "shareRecent": 0.0375,
+              "sharePeriod": 0.0375,
+              "culture": 0.09444444444444444,
+              "intention": 0.09444444444444444,
+              "demandGrowth": 0.09444444444444444
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "MX",
+          "KW",
+          "BE"
+        ],
+        "rows": [
+          {
+            "iso": "MX",
+            "observedEvidenceIndex": 71.51947228229965,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.0875,
+              "koreaPeriod": 0.0875,
+              "shareRecent": 0.0875,
+              "sharePeriod": 0.0875,
+              "culture": 0.07222222222222223,
+              "intention": 0.07222222222222223,
+              "demandGrowth": 0.07222222222222223
+            }
+          },
+          {
+            "iso": "KW",
+            "observedEvidenceIndex": 70.72708889843646,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 68.93978975281412,
+            "observedInputs": 9,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.0875,
+              "koreaPeriod": 0.0875,
+              "shareRecent": 0.0875,
+              "sharePeriod": 0.0875,
+              "demandGrowth": 0.21666666666666667
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "US",
+          "MX",
+          "CN"
+        ],
+        "rows": [
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 70.99762829847012,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.049999999999999996,
+              "intention": 0.049999999999999996,
+              "demandGrowth": 0.049999999999999996
+            }
+          },
+          {
+            "iso": "MX",
+            "observedEvidenceIndex": 70.39651811299973,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.049999999999999996,
+              "intention": 0.049999999999999996,
+              "demandGrowth": 0.049999999999999996
+            }
+          },
+          {
+            "iso": "CN",
+            "observedEvidenceIndex": 69.80082280903176,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.075,
+              "intention": 0.075
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "BE",
+          "MX",
+          "KW"
+        ],
+        "rows": [
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 73.81762439595423,
+            "observedInputs": 9,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "demandGrowth": 0.35
+            }
+          },
+          {
+            "iso": "MX",
+            "observedEvidenceIndex": 68.52563815674964,
+            "observedInputs": 11,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.11666666666666665,
+              "intention": 0.11666666666666665,
+              "demandGrowth": 0.11666666666666665
+            }
+          },
+          {
+            "iso": "KW",
+            "observedEvidenceIndex": 66.85989171788118,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "190590",
+    "count": 35,
+    "scenarios": [
+      {
+        "top": [
+          "HR",
+          "IE",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.62807219662058,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 75.45065284178187,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.32692307692308,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.74492283785231,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 75.16240220769478,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.19117647058823,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.52116629081281,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 75.7143715070105,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "ME",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.17307692307692,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 77.86007662629943,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.83794609366628,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.30882352941175,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.43605990783409,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 73.24628640062751,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.30134765834315,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 73.32947969135141,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "ME",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 77.39130061770761,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.92699039121483,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.62807219662058,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 75.45065284178187,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 76.62807219662058,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 75.45065284178187,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "1806",
+    "count": 34,
+    "scenarios": [
+      {
+        "top": [
+          "HR",
+          "GR",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 80.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 77.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 76.13884283819628,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.125,
+              "economyCagr": 0.125,
+              "marketLevel": 0.125,
+              "marketCagr": 0.125,
+              "koreaRecent": 0.0625,
+              "koreaPeriod": 0.0625,
+              "shareRecent": 0.0625,
+              "sharePeriod": 0.0625,
+              "culture": 0.125,
+              "intention": 0.125
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "BE",
+          "HR",
+          "GR"
+        ],
+        "rows": [
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 80.5576923076923,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 80.30769230769229,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 76.84615384615384,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.76470588235294,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 77.11764705882354,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 76.12033045977012,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.175,
+              "economyCagr": 0.175,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "RO"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.69230769230768,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 77.15384615384615,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "RO",
+            "observedEvidenceIndex": 75.63461538461537,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "BE",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 80.23529411764706,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 79.30882352941175,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 77.72033045977011,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.175,
+              "marketCagr": 0.175,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 80.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 77.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 75.62689544650752,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.0375,
+              "koreaPeriod": 0.0375,
+              "shareRecent": 0.0375,
+              "sharePeriod": 0.0375,
+              "culture": 0.14166666666666666,
+              "intention": 0.14166666666666666
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 80.00000000000001,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 77.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 76.65079022988506,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.0875,
+              "koreaPeriod": 0.0875,
+              "shareRecent": 0.0875,
+              "sharePeriod": 0.0875,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "US",
+          "GR"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 80.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 78.21376547303271,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.075,
+              "intention": 0.075
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 77.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "BE",
+          "RO"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 80.00000000000001,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 77.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 75.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "210500",
+    "count": 35,
+    "scenarios": [
+      {
+        "top": [
+          "HR",
+          "IL",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.5,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IL",
+            "observedEvidenceIndex": 73.55263157894737,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.16666666666666666,
+              "shareRecent": 0.16666666666666666
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 72.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IL",
+          "RS"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.34615384615384,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          },
+          {
+            "iso": "IL",
+            "observedEvidenceIndex": 77.09730722154222,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.19767441860465115,
+              "shareRecent": 0.19767441860465115
+            }
+          },
+          {
+            "iso": "RS",
+            "observedEvidenceIndex": 74.28846153846153,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "ME",
+          "GR"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.61764705882352,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 73.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 73.48529411764706,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "ME",
+          "GR"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.65384615384615,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 74.0576923076923,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 73.86538461538461,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "IL"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.38235294117646,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 74.56662933930572,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.13829787234042554,
+              "shareRecent": 0.13829787234042554
+            }
+          },
+          {
+            "iso": "IL",
+            "observedEvidenceIndex": 74.30963045912654,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.13829787234042554,
+              "shareRecent": 0.13829787234042554
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.5,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 75.37331701346389,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.10465116279069767,
+              "shareRecent": 0.10465116279069767
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 72.74999999999999,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IL",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.5,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IL",
+            "observedEvidenceIndex": 76.03863381858902,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.22340425531914893,
+              "shareRecent": 0.22340425531914893
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 72.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IL",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.5,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IL",
+            "observedEvidenceIndex": 73.55263157894737,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.16666666666666666,
+              "shareRecent": 0.16666666666666666
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 72.74999999999999,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IL",
+          "ME"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 78.5,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IL",
+            "observedEvidenceIndex": 73.55263157894737,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.16666666666666666,
+              "shareRecent": 0.16666666666666666
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 72.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "210390",
+    "count": 42,
+    "scenarios": [
+      {
+        "top": [
+          "HR",
+          "IN",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 72.86413244289957,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.125,
+              "economyCagr": 0.125,
+              "marketLevel": 0.125,
+              "marketCagr": 0.125,
+              "koreaRecent": 0.0625,
+              "koreaPeriod": 0.0625,
+              "shareRecent": 0.0625,
+              "sharePeriod": 0.0625,
+              "culture": 0.125,
+              "intention": 0.125
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 72.7348040087766,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "IN",
+          "HR",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 75.37935010195284,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.075,
+              "economyCagr": 0.075,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.14166666666666666,
+              "intention": 0.14166666666666666
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 74.09615384615384,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 72.12732568482807,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "IN"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.13235294117646,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 73.29058204983592,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 70.34891478384628,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.175,
+              "economyCagr": 0.175,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IN",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.40384615384616,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 73.31268343528617,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.075,
+              "marketCagr": 0.075,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.14166666666666666,
+              "intention": 0.14166666666666666
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 70.26686056854899,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "IE",
+          "HR",
+          "IN"
+        ],
+        "rows": [
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 74.99270970941038,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 74.36764705882354,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          },
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 72.41558145051296,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.175,
+              "marketCagr": 0.175,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "IE",
+          "HR",
+          "IN"
+        ],
+        "rows": [
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 75.81022577295276,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 71.0825820298423,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.0375,
+              "koreaPeriod": 0.0375,
+              "shareRecent": 0.0375,
+              "sharePeriod": 0.0375,
+              "culture": 0.14166666666666666,
+              "intention": 0.14166666666666666
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IN",
+          "KZ"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 74.64568285595684,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.0875,
+              "koreaPeriod": 0.0875,
+              "shareRecent": 0.0875,
+              "sharePeriod": 0.0875,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          },
+          {
+            "iso": "KZ",
+            "observedEvidenceIndex": 70.45394354503944,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.0875,
+              "koreaPeriod": 0.0875,
+              "shareRecent": 0.0875,
+              "sharePeriod": 0.0875,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "IN"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 72.7348040087766,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 71.68191420451694,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.075,
+              "intention": 0.075
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IN",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.25,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IN",
+            "observedEvidenceIndex": 74.04635068128219,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.175,
+              "intention": 0.175
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 72.7348040087766,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "2202",
+    "count": 42,
+    "scenarios": [
+      {
+        "top": [
+          "PH",
+          "PT",
+          "HR"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 79.59248563936063,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.125,
+              "economyCagr": 0.125,
+              "marketLevel": 0.125,
+              "marketCagr": 0.125,
+              "koreaRecent": 0.0625,
+              "koreaPeriod": 0.0625,
+              "shareRecent": 0.0625,
+              "sharePeriod": 0.0625,
+              "culture": 0.125,
+              "intention": 0.125
+            }
+          },
+          {
+            "iso": "PT",
+            "observedEvidenceIndex": 74.8198051948052,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 72.25,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.16666666666666666,
+              "shareRecent": 0.16666666666666666
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "PH",
+          "PT",
+          "HR"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 83.87148372460872,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.075,
+              "economyCagr": 0.075,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.14166666666666666,
+              "intention": 0.14166666666666666
+            }
+          },
+          {
+            "iso": "PT",
+            "observedEvidenceIndex": 78.22814104500151,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 70.99418604651162,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.19767441860465115,
+              "shareRecent": 0.19767441860465115
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "PH",
+          "HR",
+          "TR"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 75.31348755411256,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.175,
+              "economyCagr": 0.175,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 73.39893617021278,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.13829787234042554,
+              "shareRecent": 0.13829787234042554
+            }
+          },
+          {
+            "iso": "TR",
+            "observedEvidenceIndex": 71.8430735930736,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.175,
+              "economyCagr": 0.175,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "PH",
+          "PT",
+          "HR"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 78.80481705794206,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.075,
+              "marketCagr": 0.075,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.14166666666666666,
+              "intention": 0.14166666666666666
+            }
+          },
+          {
+            "iso": "PT",
+            "observedEvidenceIndex": 73.76302476593173,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 72.38953488372093,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.19767441860465115,
+              "shareRecent": 0.19767441860465115
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "PH",
+          "PT",
+          "TR"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 80.38015422077922,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.175,
+              "marketCagr": 0.175,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          },
+          {
+            "iso": "PT",
+            "observedEvidenceIndex": 75.78664686377452,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "TR",
+            "observedEvidenceIndex": 72.50974025974025,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.175,
+              "marketCagr": 0.175,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "PH",
+          "HR",
+          "PT"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 78.56574779387279,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.0375,
+              "koreaPeriod": 0.0375,
+              "shareRecent": 0.0375,
+              "sharePeriod": 0.0375,
+              "culture": 0.14166666666666666,
+              "intention": 0.14166666666666666
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 73.36627906976744,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.10465116279069767,
+              "shareRecent": 0.10465116279069767
+            }
+          },
+          {
+            "iso": "PT",
+            "observedEvidenceIndex": 72.46824977348233,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "PH",
+          "PT",
+          "TR"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 80.61922348484848,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.0875,
+              "koreaPeriod": 0.0875,
+              "shareRecent": 0.0875,
+              "sharePeriod": 0.0875,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          },
+          {
+            "iso": "PT",
+            "observedEvidenceIndex": 76.97122823984526,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          },
+          {
+            "iso": "TR",
+            "observedEvidenceIndex": 72.97727272727273,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.0875,
+              "koreaPeriod": 0.0875,
+              "shareRecent": 0.0875,
+              "sharePeriod": 0.0875,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "PH",
+          "TR",
+          "PT"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 77.12789398101897,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.075,
+              "intention": 0.075
+            }
+          },
+          {
+            "iso": "TR",
+            "observedEvidenceIndex": 76.1537629037629,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.075,
+              "intention": 0.075
+            }
+          },
+          {
+            "iso": "PT",
+            "observedEvidenceIndex": 74.81980519480518,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "PH",
+          "PT",
+          "HR"
+        ],
+        "rows": [
+          {
+            "iso": "PH",
+            "observedEvidenceIndex": 82.05707729770229,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.175,
+              "intention": 0.175
+            }
+          },
+          {
+            "iso": "PT",
+            "observedEvidenceIndex": 74.8198051948052,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 72.25,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.16666666666666666,
+              "shareRecent": 0.16666666666666666
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "170490",
+    "count": 31,
+    "scenarios": [
+      {
+        "top": [
+          "NL",
+          "HR",
+          "HU"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 76.37864927411643,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.26262626262626,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "HU",
+            "observedEvidenceIndex": 74.13239705099095,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "HU",
+          "HR"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 79.40704725981064,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "HU",
+            "observedEvidenceIndex": 76.46099899235453,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.48562548562546,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "NL",
+          "HU"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.85680332739156,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.60798728720472,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "HU",
+            "observedEvidenceIndex": 72.00197399825403,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "NL",
+          "MT"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 77.03962703962704,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.76927418017709,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "MT",
+            "observedEvidenceIndex": 73.15462315462315,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "HU",
+          "HR"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 78.76594989197584,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "HU",
+            "observedEvidenceIndex": 75.78447990841951,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.66844919786095,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "NL",
+          "HU"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.26262626262626,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 75.95962638236158,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          },
+          {
+            "iso": "HU",
+            "observedEvidenceIndex": 73.60956009332834,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "HR",
+          "HU"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 76.76201064316875,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.26262626262627,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "HU",
+            "observedEvidenceIndex": 74.61073724629928,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "HR",
+          "HU"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 76.37864927411643,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.26262626262626,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "HU",
+            "observedEvidenceIndex": 74.13239705099095,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "HR",
+          "HU"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 76.37864927411643,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.26262626262627,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "HU",
+            "observedEvidenceIndex": 74.13239705099095,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "190531",
+    "count": 30,
+    "scenarios": [
+      {
+        "top": [
+          "HR",
+          "GR",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 75.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 75.45911295911296,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "GR"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.98076923076923,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 75.35848281197119,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 75.21153846153847,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.57352941176471,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 76.16176470588235,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 75.55117883841288,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.51923076923076,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 76.28846153846153,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 73.40499443987817,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.10465116279069767,
+              "marketCagr": 0.10465116279069767,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "GR"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.92647058823529,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 77.33841288096608,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 75.33823529411764,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "IE",
+          "GR"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 77.61386162548953,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 75.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 75.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 73.48774715795993,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 75.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 75.45911295911297,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "GR",
+          "IE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 79.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 75.75,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "IE",
+            "observedEvidenceIndex": 75.45911295911297,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "190532",
+    "count": 28,
+    "scenarios": [
+      {
+        "top": [
+          "NL",
+          "GB",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GB",
+            "observedEvidenceIndex": 72.66666666666667,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "culture": 0.16666666666666666,
+              "intention": 0.16666666666666666
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 70.26635720601237,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.125,
+              "economyCagr": 0.125,
+              "marketLevel": 0.125,
+              "marketCagr": 0.125,
+              "koreaRecent": 0.0625,
+              "koreaPeriod": 0.0625,
+              "shareRecent": 0.0625,
+              "sharePeriod": 0.0625,
+              "culture": 0.125,
+              "intention": 0.125
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "GB",
+          "SE"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 77.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          },
+          {
+            "iso": "GB",
+            "observedEvidenceIndex": 74.83720930232558,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "culture": 0.19767441860465115,
+              "intention": 0.19767441860465115
+            }
+          },
+          {
+            "iso": "SE",
+            "observedEvidenceIndex": 73.17307692307692,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "MT",
+          "RO",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "MT",
+            "observedEvidenceIndex": 73.41176470588236,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "RO",
+            "observedEvidenceIndex": 71.1470588235294,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 71.0308429118774,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.175,
+              "economyCagr": 0.175,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.05416666666666667,
+              "koreaPeriod": 0.05416666666666667,
+              "shareRecent": 0.05416666666666667,
+              "sharePeriod": 0.05416666666666667,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "MT",
+          "RO",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "MT",
+            "observedEvidenceIndex": 74.46153846153845,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "RO",
+            "observedEvidenceIndex": 71.65384615384615,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 71.10187150014737,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.075,
+              "marketCagr": 0.075,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.14166666666666666,
+              "intention": 0.14166666666666666
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "GB",
+          "NL",
+          "SE"
+        ],
+        "rows": [
+          {
+            "iso": "GB",
+            "observedEvidenceIndex": 76.38297872340425,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "culture": 0.13829787234042554,
+              "intention": 0.13829787234042554
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 76.05882352941175,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          },
+          {
+            "iso": "SE",
+            "observedEvidenceIndex": 71.77941176470588,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "GB",
+          "MT"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GB",
+            "observedEvidenceIndex": 72.66666666666667,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "culture": 0.16666666666666666,
+              "intention": 0.16666666666666666
+            }
+          },
+          {
+            "iso": "MT",
+            "observedEvidenceIndex": 70.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "GB",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GB",
+            "observedEvidenceIndex": 72.66666666666667,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "culture": 0.16666666666666666,
+              "intention": 0.16666666666666666
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 71.62931034482759,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.10833333333333334,
+              "economyCagr": 0.10833333333333334,
+              "marketLevel": 0.10833333333333334,
+              "marketCagr": 0.10833333333333334,
+              "koreaRecent": 0.0875,
+              "koreaPeriod": 0.0875,
+              "shareRecent": 0.0875,
+              "sharePeriod": 0.0875,
+              "culture": 0.10833333333333334,
+              "intention": 0.10833333333333334
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "GB",
+          "NL",
+          "US"
+        ],
+        "rows": [
+          {
+            "iso": "GB",
+            "observedEvidenceIndex": 74.55813953488372,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "culture": 0.10465116279069767,
+              "intention": 0.10465116279069767
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "US",
+            "observedEvidenceIndex": 71.55828175655762,
+            "observedInputs": 10,
+            "effectiveWeights": {
+              "economyLevel": 0.14166666666666666,
+              "economyCagr": 0.14166666666666666,
+              "marketLevel": 0.14166666666666666,
+              "marketCagr": 0.14166666666666666,
+              "koreaRecent": 0.07083333333333333,
+              "koreaPeriod": 0.07083333333333333,
+              "shareRecent": 0.07083333333333333,
+              "sharePeriod": 0.07083333333333333,
+              "culture": 0.075,
+              "intention": 0.075
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "NL",
+          "GB",
+          "MT"
+        ],
+        "rows": [
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "GB",
+            "observedEvidenceIndex": 70.93617021276596,
+            "observedInputs": 6,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "culture": 0.22340425531914893,
+              "intention": 0.22340425531914893
+            }
+          },
+          {
+            "iso": "MT",
+            "observedEvidenceIndex": 70.0,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product": "190410",
+    "count": 27,
+    "scenarios": [
+      {
+        "top": [
+          "HR",
+          "BE",
+          "NL"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.5,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 74.42260442260442,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.87776412776412,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "BE",
+          "NL",
+          "HR"
+        ],
+        "rows": [
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 77.47797268727501,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 76.45967373292955,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.10465116279069767,
+              "economyCagr": 0.10465116279069767,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.09883720930232558,
+              "koreaPeriod": 0.09883720930232558,
+              "shareRecent": 0.09883720930232558,
+              "sharePeriod": 0.09883720930232558
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.73076923076923,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.17307692307692307,
+              "economyCagr": 0.17307692307692307,
+              "marketLevel": 0.3269230769230769,
+              "marketCagr": 0.3269230769230769
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "ME",
+          "BE"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 77.08823529411765,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 72.41176470588235,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3088235294117647,
+              "economyCagr": 0.3088235294117647,
+              "marketLevel": 0.1911764705882353,
+              "marketCagr": 0.1911764705882353
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 71.62726749960792,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.22340425531914893,
+              "economyCagr": 0.22340425531914893,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "ME",
+          "GR"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 77.26923076923077,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "ME",
+            "observedEvidenceIndex": 72.84615384615384,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          },
+          {
+            "iso": "GR",
+            "observedEvidenceIndex": 71.96153846153845,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.3269230769230769,
+              "economyCagr": 0.3269230769230769,
+              "marketLevel": 0.17307692307692307,
+              "marketCagr": 0.17307692307692307
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "BE",
+          "NL",
+          "HR"
+        ],
+        "rows": [
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 76.9889696272675,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 76.28154895708087,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.22340425531914893,
+              "marketCagr": 0.22340425531914893,
+              "koreaRecent": 0.06914893617021277,
+              "koreaPeriod": 0.06914893617021277,
+              "shareRecent": 0.06914893617021277,
+              "sharePeriod": 0.06914893617021277
+            }
+          },
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 75.91176470588235,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.1911764705882353,
+              "economyCagr": 0.1911764705882353,
+              "marketLevel": 0.3088235294117647,
+              "marketCagr": 0.3088235294117647
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "BE",
+          "NL"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.49999999999999,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 74.17233300954231,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.92324724301469,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.19767441860465115,
+              "economyCagr": 0.19767441860465115,
+              "marketLevel": 0.19767441860465115,
+              "marketCagr": 0.19767441860465115,
+              "koreaRecent": 0.05232558139534883,
+              "koreaPeriod": 0.05232558139534883,
+              "shareRecent": 0.05232558139534883,
+              "sharePeriod": 0.05232558139534883
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "BE",
+          "NL"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.50000000000001,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 74.65157614093783,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.83615191593914,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.13829787234042554,
+              "economyCagr": 0.13829787234042554,
+              "marketLevel": 0.13829787234042554,
+              "marketCagr": 0.13829787234042554,
+              "koreaRecent": 0.11170212765957446,
+              "koreaPeriod": 0.11170212765957446,
+              "shareRecent": 0.11170212765957446,
+              "sharePeriod": 0.11170212765957446
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "BE",
+          "NL"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.49999999999999,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 74.42260442260444,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.87776412776414,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      },
+      {
+        "top": [
+          "HR",
+          "BE",
+          "NL"
+        ],
+        "rows": [
+          {
+            "iso": "HR",
+            "observedEvidenceIndex": 76.50000000000001,
+            "observedInputs": 4,
+            "effectiveWeights": {
+              "economyLevel": 0.25,
+              "economyCagr": 0.25,
+              "marketLevel": 0.25,
+              "marketCagr": 0.25
+            }
+          },
+          {
+            "iso": "BE",
+            "observedEvidenceIndex": 74.42260442260441,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          },
+          {
+            "iso": "NL",
+            "observedEvidenceIndex": 73.87776412776412,
+            "observedInputs": 8,
+            "effectiveWeights": {
+              "economyLevel": 0.16666666666666666,
+              "economyCagr": 0.16666666666666666,
+              "marketLevel": 0.16666666666666666,
+              "marketCagr": 0.16666666666666666,
+              "koreaRecent": 0.08333333333333333,
+              "koreaPeriod": 0.08333333333333333,
+              "shareRecent": 0.08333333333333333,
+              "sharePeriod": 0.08333333333333333
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

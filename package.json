@@ -1,0 +1,22 @@
+{
+  "name": "kfood-atlas",
+  "version": "1.0.0",
+  "description": "K-food 수출 유망국가 탐색 대시보드와 근거 기반 AI 분석 도우미",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build-chat.mjs",
+    "test:chat": "node test-chat.mjs",
+    "start": "node scripts/preview-chat.mjs",
+    "test": "node scripts/test.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "dependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

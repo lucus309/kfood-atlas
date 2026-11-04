@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="제품군을 선택하면 무역 데이터 기반 TOP 3 후보국과 검토 근거, 소비 수요를 한눈에 비교합니다.">
+  <meta name="theme-color" content="#172235"><title>K-food Atlas · 수출 시장 탐색</title>
+  <link rel="stylesheet" href="./styles.css?v=39"><link rel="stylesheet" href="./dashboard.css?v=40">
+<link rel="stylesheet" href="./chat.css?v=39"></head>
+<body>
+  <a class="skip" href="#main">본문으로 이동</a>
+  <aside class="sidebar">
+    <a class="brand" href="./" aria-label="K-food Atlas 홈"><span class="brand-mark">k<span>↗</span></span><span>K-food <b>Atlas</b><small>EXPORT INTELLIGENCE</small></span></a>
+    <p class="nav-label">시장 리서치</p>
+    <nav aria-label="주 메뉴"><button class="nav-item active" id="navExplore"><span data-icon="compass"></span>시장 개요</button><button class="nav-item" data-jump="historyPanel"><span data-icon="trend"></span>성장 추이</button><button class="nav-item" data-jump="consumerEvidence"><span data-icon="globe"></span>소비 인사이트</button><button class="nav-item" data-jump="allData"><span data-icon="database"></span>국가별 데이터</button><button class="nav-item" id="navCompare"><span data-icon="compare"></span>후보국 비교<span class="nav-count" id="navCount">0</span></button></nav>
+    <div class="sidebar-footer">K-food Atlas<small>Market intelligence</small></div>
+  </aside>
+  <div class="app-shell">
+    <main id="main">
+      <div class="page-heading"><div><h1>수출시장 분석</h1></div><div class="top-actions"><button class="button ghost" id="sourcesButton"><span data-icon="database"></span>데이터와 기준</button><button class="button secondary" id="downloadButton" disabled><span data-icon="download"></span>데이터 내보내기</button><button class="button mobile-compare" id="mobileCompare" aria-label="후보국 비교 열기"><span data-icon="compare"></span>비교</button></div></div>
+      <div id="loading" class="loading" role="status"><span class="loader"></span><h2>실제 수출 데이터를 불러오고 있어요</h2><p>195개 국가·지역의 5개년 기록을 준비합니다.</p></div>
+      <div id="error" class="error-panel" hidden><h2>데이터를 불러오지 못했어요</h2><p>연결을 확인한 뒤 다시 시도해주세요.</p><button class="button primary" id="retryButton">다시 불러오기</button></div>
+      <div id="content" hidden>
+        <section class="filter-panel" aria-label="탐색 조건">
+          <div class="filter-main"><label class="product-field">제품군<select id="productSelect" aria-label="제품군"></select></label><div class="period-field"><label for="startYear">비교 기간</label><div><select id="startYear" aria-label="시작 연도"></select><span>—</span><select id="endYear" aria-label="종료 연도"></select></div></div></div>
+        </section>
+        <section id="overview" class="decision-panel" aria-labelledby="decisionHeading">
+          <div class="decision-heading"><div><h2 id="decisionHeading">먼저 검토할 수출시장 TOP 3</h2><p id="decisionScope"></p></div><button class="button primary" id="compareTop3">TOP 3 한 번에 비교 ↗</button></div>
+
+
+          <div id="scoreLeaders" class="score-leaders"></div><div id="candidateTies"></div>
+          <article class="panel history-panel" id="historyPanel"><div class="panel-heading"><div><h3>후보국 성장 추이</h3><p id="historyUnit">백만 USD</p></div><div class="chart-switch" aria-label="추이 지표"><button type="button" data-history="world" aria-pressed="true">전체 수입</button><button type="button" data-history="korea" aria-pressed="false">한국산 수입</button><button type="button" data-history="share" aria-pressed="false">한국산 점유율</button></div></div><div id="historyLegend" class="history-legend"></div><div id="historyChart"></div></article>
+          <div class="decision-charts">
+            <article class="panel opportunity-panel"><div class="panel-heading"><div><h3>시장 성장 비교</h3></div></div><div id="opportunityChart"></div><div class="plot-key"><span><i></i> 원 크기: 수입액</span><span>국가별 상세 ↗</span></div></article>
+            <article class="panel contribution-panel"><div class="panel-heading"><div><h3>추천 점수 구성</h3></div></div><div id="contributionChart"></div><div class="contribution-key"><span><i></i>구매력</span><span><i></i>수입시장</span><span><i></i>한국산 성과</span><span><i></i>문화·소비</span></div></article>
+          </div>
+        </section>
+
+        <section class="panel volume-panel" aria-labelledby="volumeHeading">
+          <div class="markets-top"><div><h2 id="volumeHeading">수입액·물량 성장</h2><p id="volumeScope"></p></div><button class="button secondary" id="volumeDownload">전체 비교 CSV ↗</button></div>
+
+          <div id="volumeSummary" class="volume-summary"></div>
+          <div class="volume-layout"><div><div class="volume-chart-heading"><h3>수입액 vs 물량</h3><span class="subtle-tag">비교 가능 시장 중 수입액 상위 20개</span></div><div id="volumeChart"></div><div class="volume-key"><span><i></i>금액·물량 동반 증가</span><span><i></i>금액 증가·물량 비증가</span><span><i></i>그 외</span></div><p class="inline-note">원 크기: 수입액</p></div><div class="volume-top"><h3>후보의 물량 검증</h3><p id="volumeTopNote"></p><div class="table-scroll"><table class="source-table"><thead><tr><th>국가</th><th>금액 CAGR</th><th>중량 CAGR</th></tr></thead><tbody id="volumeTopRows"></tbody></table></div></div></div>
+          <details class="volume-all"><summary>전체 국가의 금액·물량과 보류 사유 확인</summary><label class="search-box"><span data-icon="search"></span><input type="search" id="volumeSearch" aria-label="물량 비교 국가 검색" placeholder="국가 검색" autocomplete="off"></label><div class="table-scroll volume-list"><table class="source-table"><thead><tr><th>국가·지역</th><th>금액 CAGR</th><th>중량 CAGR</th><th>양끝 연도 순중량 · 톤</th><th>해석·자료 상태</th></tr></thead><tbody id="volumeRows"></tbody></table></div></details>
+          <details><summary>물량 기준·출처</summary><p>중량 단위: 톤 · <a href="https://uncomtrade.org/docs/quantity-unit-information-in-detailed-level-data/" target="_blank" rel="noopener noreferrer">UN Comtrade ↗</a></p></details>
+        </section>
+
+        <section id="consumerEvidence" class="panel consumer-panel" aria-labelledby="consumerHeading"><div class="markets-top"><div><h2 id="consumerHeading">즉석면 소비 규모와 성장</h2><p id="consumerScope"></p></div></div><div id="consumerContent"></div></section>
+        <details id="allData" class="research-details"><summary><span><strong>전체 데이터</strong><small>국가별 통계·경쟁국·계산 기준</small></span><span class="details-arrow">＋</span></summary><div class="research-body">
+        <section id="kpis" class="kpi-grid" aria-label="제품군 전체 수출 지표"></section>
+        <section class="panel score-panel" aria-labelledby="scoreHeading">
+          <div class="markets-top"><div><h2 id="scoreHeading">경제·수입시장 기회 점수</h2><p id="scoreScope"></p></div><button class="button secondary" id="scoreDownload">점수·근거 CSV ↗</button></div>
+          <details class="score-method"><summary>추천 지수와 기본 시장 점수 · 계산 기준 보기</summary><div id="scoreMethod"></div></details>
+          <div class="table-toolbar"><label class="search-box"><span data-icon="search"></span><input id="scoreSearch" type="search" placeholder="점수에서 국가 검색" aria-label="점수 국가 검색" autocomplete="off"></label><span class="score-filter-hint">종합점수순 · 검색해도 점수와 순위는 유지</span></div>
+          <div class="table-scroll"><table class="market-table score-table"><thead><tr><th>순위</th><th>국가·지역</th><th>동일 가중치 점수<small>100점 만점</small></th><th>구매력 수준<small>국제달러/인 · 점수</small></th><th>구매력 성장<small>CAGR · 점수</small></th><th>수입 규모<small>백만 USD · 점수</small></th><th>수입 성장<small>CAGR · 점수</small></th><th>해석·데이터</th><th class="compare-column">비교</th></tr></thead><tbody id="scoreRows"></tbody></table></div>
+          <div class="table-footer"><span id="scorePaginationText"></span><div class="pagination"><button id="scorePrev" aria-label="점수 이전 페이지">←</button><span id="scorePageText"></span><button id="scoreNext" aria-label="점수 다음 페이지">→</button></div></div>
+        </section>
+        <section class="panel evidence-panel" aria-labelledby="evidenceHeading">
+          <div class="markets-top"><div><h2 id="evidenceHeading">추가 지표 확보 현황</h2><p>실제 확보 여부와 비교 한계를 구분합니다. 아래 자료는 현재 종합점수에 포함하지 않습니다.</p></div><span class="subtle-tag">2026.11.02 확인</span></div>
+          <div class="evidence-status">
+            <article><span class="data-badge">자료 확보</span><h3>물류 처리 시간</h3><p id="logisticsCoverage"></p><a href="https://reproducibility.worldbank.org/catalog/514/related-materials" target="_blank" rel="noopener noreferrer">World Bank 원자료 ↗</a></article>
+            <article><span class="data-badge">자료 연결</span><h3>한국 문화 관심도</h3><p>2026 해외한류실태조사 · 2025년 조사 · 30개 국가·지역. 30개 국가·지역의 드라마·음악 소비비중과 한국 식품 구매의향을 확보했고, 서비스의 29개 국가·지역에 연결했습니다.</p><a href="https://www.archivecenter.net/kaitArchive/attach/140000/148733/20260330101012829.pdf" target="_blank" rel="noopener noreferrer">KOFICE 조사 설계 ↗</a></article>
+            <article><span class="data-badge partial">데이터 미확보</span><h3>제품군 검색 관심도</h3><p>Google Trends는 상대 검색 관심입니다. 국가별로 따로 뽑은 0–100 값을 그대로 비교하지 않습니다. 공식 API는 승인형 알파이며 접근 권한을 확보하지 않았습니다.</p><a href="https://developers.google.com/search/apis/trends" target="_blank" rel="noopener noreferrer">공식 API 안내 ↗</a></article>
+            <article><span class="data-badge partial">데이터 미확보</span><h3>한국산 적용 관세</h3><p>WITS의 한국산 HS 190230 시험 조회에서 값을 확보하지 못했습니다. 미응답을 무관세로 해석하지 않습니다. 세부 품목·연도·원산지 적용 범위 확인 후 채택합니다.</p><a href="https://wits.worldbank.org/witsapiintro.aspx" target="_blank" rel="noopener noreferrer">WITS 데이터 범위 ↗</a></article>
+          </div>
+          <div class="evidence-logistics"><h3>점수 상위국의 물류 참고 지표</h3><div class="table-scroll"><table class="source-table"><thead><tr><th>국가·지역</th><th>관측 연도</th><th>평균 체류일</th><th>중앙 체류일</th><th>관측 수 구간</th></tr></thead><tbody id="logisticsPreview"></tbody></table></div></div>
+        </section>
+        <section class="panel markets-panel import-panel" aria-labelledby="importHeading">
+          <div class="markets-top"><div><h2 id="importHeading">현지 수입시장과 한국산 점유율 <span id="importCount"></span></h2><p id="importCoverage"></p></div><button class="button secondary" id="importDownload">수입 비교 CSV ↗</button></div>
+          <div class="import-context"><span>선택 제품군 · <b id="importPeriod"></b> · 금액: 백만 USD</span><span>상대국 수입 신고액 기준 · 통상 CIF</span></div>
+          <div class="table-toolbar"><label class="search-box"><span data-icon="search"></span><input id="importSearch" type="search" placeholder="수입시장 국가 검색" aria-label="수입시장 국가 검색" autocomplete="off"></label><label class="sort-field">정렬<select id="importSort" aria-label="수입시장 정렬 기준"><option value="last">전체 수입액 높은 순</option><option value="cagr">수입시장 성장률 높은 순</option><option value="share">한국산 점유율 높은 순</option><option value="shareChange">점유율 상승폭 높은 순</option></select></label></div>
+          <div class="table-scroll"><table class="market-table import-table"><thead><tr><th>국가·지역</th><th>전체 수입액<small id="importYear"></small></th><th>수입시장<small>연평균 성장률</small></th><th>한국산 수입액<small>백만 달러</small></th><th>한국산 점유율<small>전체 수입액 대비</small></th><th>점유율 변화<small>퍼센트포인트</small></th><th>최대 경쟁국<small>한국 제외 · 기준 연도 표시</small></th><th class="compare-column">비교</th></tr></thead><tbody id="importRows"></tbody></table></div>
+          <div class="table-footer"><span id="importPaginationText"></span><div class="pagination"><button id="importPrev" aria-label="수입시장 이전 페이지">←</button><span id="importPageText"></span><button id="importNext" aria-label="수입시장 다음 페이지">→</button></div></div>
+          <p class="import-warning">점유율은 같은 국가·품목·연도의 한국산 수입액 ÷ 전체 수입액입니다. 미확인 자료는 —로 표시하며 0으로 간주하지 않습니다. 국가명을 누르면 5개년 점유율과 주요 경쟁국을 볼 수 있어요.</p>
+        </section>
+        <section class="charts-grid" aria-label="수출 데이터 시각화">
+          <article class="panel bar-panel"><div class="panel-heading"><div><h2>수출 규모가 큰 시장</h2><p id="barSubtitle"></p></div><span class="subtle-tag" id="barYear"></span></div><div id="barChart" class="bar-chart"></div></article>
+          <article class="panel trend-panel"><div class="panel-heading"><div><h2 id="trendTitle">주요 시장의 수출 흐름</h2><p>금액 기준 · 백만 달러</p></div><span class="chart-icon" data-icon="trend"></span></div><div id="trendChart" class="trend-chart"></div><div id="trendLegend" class="chart-legend"></div></article>
+        </section>
+        <section class="panel markets-panel" aria-labelledby="marketsHeading">
+          <div class="markets-top"><div><h2 id="marketsHeading">국가별 수출 실적 <span id="resultCount"></span></h2><p>장기 성장과 최근 변화를 함께 비교하세요. 국가명을 누르면 제품군별 기록을 볼 수 있어요.</p></div><label class="search-box"><span data-icon="search"></span><input id="countrySearch" type="search" placeholder="국가 검색" aria-label="국가 검색" autocomplete="off"></label></div>
+          <div class="table-toolbar"><div class="table-filters"><label><span class="filter-caption">최소 수출액</span><select id="minimumSelect" aria-label="종료 연도 최소 수출액"><option value="0">전체 규모</option><option value="1000000">100만 달러 이상</option><option value="10000000">1,000만 달러 이상</option></select></label><label class="checkbox-field"><input type="checkbox" id="completeOnly">기간 전체 데이터만</label></div><label class="sort-field">정렬<select id="sortSelect" aria-label="정렬 기준"><option value="last">수출액 높은 순</option><option value="delta">증가액 높은 순</option><option value="cagr">연평균 성장률 높은 순</option><option value="yoy">최근 성장률 높은 순</option></select></label></div>
+          <div class="table-scroll"><table class="market-table"><thead><tr><th>국가·지역</th><th id="latestHead">2025 수출액 <small>백만 달러</small></th><th>수출 추이</th><th>증가액 <small>백만 달러</small></th><th>연평균 성장률</th><th id="yoyHead">2025 전년비</th><th>데이터</th><th class="compare-column">비교</th></tr></thead><tbody id="marketRows"></tbody></table></div>
+          <div id="emptyState" class="empty-state" hidden><span data-icon="search"></span><h3>조건에 맞는 국가가 없어요</h3><p>검색어나 최소 수출액 조건을 바꿔보세요.</p><button class="button secondary" id="resetFilters">필터 초기화</button></div>
+          <div class="table-footer"><span id="paginationText"></span><div class="pagination"><button id="prevPage" aria-label="이전 페이지">←</button><span id="pageText"></span><button id="nextPage" aria-label="다음 페이지">→</button></div></div>
+        </section>
+        </div></details>
+        <footer>UN Comtrade · World Bank · KOFICE · WINA</footer>
+      </div>
+    </main>
+  </div>
+  <section id="comparisonTray" class="comparison-tray" aria-label="선택한 비교 후보" hidden><div class="tray-lead"><span class="tray-icon" data-icon="compare"></span><div><b>비교 후보 <span id="trayCount">0</span><small>/ 4</small></b><span id="trayHint">표의 + 버튼으로 국가를 골라보세요</span></div></div><div id="trayCountries" class="tray-countries"></div><div class="tray-actions"><button id="clearCandidates" class="text-button" hidden>비우기</button><button id="openCompare" class="button primary" disabled>후보국 비교 <span>↗</span></button></div></section>
+  <dialog id="sourcesDialog" class="modal sources-modal" aria-labelledby="sourcesTitle"><div class="modal-header"><div><h2 id="sourcesTitle">데이터와 비교 기준</h2></div><button class="icon-button close-dialog" aria-label="닫기">×</button></div><div class="modal-body"><details class="method-validation"><summary>배점 변경 검증</summary><section class="panel sensitivity-panel" style="margin-top:14px"><div class="panel-heading"><div><h3>가중치별 순위 변화</h3><p>영역 비중을 15–35%로 조정한 9개 시나리오 · 후보 내 순위</p></div></div><div id="sensitivityChart"></div></section></details><div id="sourcesContent"></div></div></dialog>
+  <dialog id="detailDialog" class="modal detail-modal" aria-labelledby="detailTitle"><div class="modal-header"><div id="detailHeading"></div><button class="icon-button close-dialog" aria-label="닫기">×</button></div><div id="detailContent" class="modal-body"></div></dialog>
+  <dialog id="compareDialog" class="modal compare-modal" aria-labelledby="compareTitle"><div class="modal-header"><div><h2 id="compareTitle">후보국 비교</h2><p id="compareSubtitle"></p></div><button class="icon-button close-dialog" aria-label="닫기">×</button></div><div id="compareContent" class="modal-body"></div></dialog>
+  <div class="toast" id="toast" role="status" hidden></div>
+  <script type="module" src="./app.mjs?v=39"></script>
+</body>
+</html>

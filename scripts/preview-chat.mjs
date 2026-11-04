@@ -1,0 +1,6 @@
+import fs from 'node:fs';import http from 'node:http';import {DatabaseSync} from 'node:sqlite';import {Readable} from 'node:stream';
+import worker from '../dist/server/index.js';
+const sql=new DatabaseSync(':memory:');sql.exec(fs.readFileSync('drizzle/0000_chat.sql','utf8'));
+const DB={prepare(query){let args=[];return {bind(...xs){args=xs;return this;},async first(){return sql.prepare(query).get(...args)||null;},async run(){return sql.prepare(query).run(...args);}};}};
+const envtext=fs.existsSync('.env.local')?fs.readFileSync('.env.local','utf8'):'';const key=process.env.OPENAI_API_KEY||envtext.match(/^OPENAI_API_KEY\s*=\s*["']?([^\s"']+)/m)?.[1];
+http.createServer(async(req,res)=>{try{const chunks=[];for await(const x of req)chunks.push(x);const request=new Request('http://localhost:4173'+req.url,{method:req.method,headers:req.headers,...(['GET','HEAD'].includes(req.method)?{}:{body:Buffer.concat(chunks)})});const response=await worker.fetch(request,{DB,OPENAI_API_KEY:key},{waitUntil:p=>p.catch(()=>{})});res.writeHead(response.status,Object.fromEntries(response.headers));if(response.body)Readable.fromWeb(response.body).pipe(res);else res.end();}catch(e){console.error(e.message);res.writeHead(500);res.end('Preview error');}}).listen(4173,()=>console.log('Local: http://localhost:4173'));

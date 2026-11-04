@@ -1,0 +1,10 @@
+node_modules/
+.env*
+!.env.example
+.build/
+dist/server/
+dist/.openai/
+.openai/
+outputs/
+*.tar.gz
+.DS_Store

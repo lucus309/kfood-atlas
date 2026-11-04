@@ -1,0 +1,165 @@
+{
+  "source": "WINA issuer press release; table visually transcribed and checked",
+  "url": "https://www.atpress.ne.jp/news/621213",
+  "published": "2026-08-06",
+  "retrieved": "2026-11-04",
+  "unit": "100 million servings",
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "scope": "Instant noodles, all origins; WINA estimates. China/Hong Kong combined. Historical values may be revised. Not Korean sales.",
+  "rows": [
+    {
+      "iso": "CN+HK",
+      "country": null,
+      "name": "China/Hong Kong",
+      "values": [
+        422.1,
+        438,
+        432.7
+      ]
+    },
+    {
+      "iso": "ID",
+      "country": 360,
+      "name": "Indonesia",
+      "values": [
+        145.4,
+        146.8,
+        145.4
+      ]
+    },
+    {
+      "iso": "IN",
+      "country": 699,
+      "name": "India",
+      "values": [
+        86.8,
+        88.2,
+        96
+      ]
+    },
+    {
+      "iso": "VN",
+      "country": 704,
+      "name": "Vietnam",
+      "values": [
+        81.3,
+        81.4,
+        82.3
+      ]
+    },
+    {
+      "iso": "JP",
+      "country": 392,
+      "name": "Japan",
+      "values": [
+        58.4,
+        59,
+        59.5
+      ]
+    },
+    {
+      "iso": "US",
+      "country": 842,
+      "name": "USA",
+      "values": [
+        51,
+        51.5,
+        52.3
+      ]
+    },
+    {
+      "iso": "PH",
+      "country": 608,
+      "name": "Philippines",
+      "values": [
+        43.9,
+        44.9,
+        43.4
+      ]
+    },
+    {
+      "iso": "TH",
+      "country": 764,
+      "name": "Thailand",
+      "values": [
+        39.5,
+        40.8,
+        41.9
+      ]
+    },
+    {
+      "iso": "KR",
+      "country": 410,
+      "name": "Korea",
+      "values": [
+        40.4,
+        41,
+        40.6
+      ]
+    },
+    {
+      "iso": "NG",
+      "country": 566,
+      "name": "Nigeria",
+      "values": [
+        29.8,
+        30,
+        31.1
+      ]
+    },
+    {
+      "iso": "BR",
+      "country": 76,
+      "name": "Brazil",
+      "values": [
+        25.5,
+        26,
+        26.5
+      ]
+    },
+    {
+      "iso": "RU",
+      "country": 643,
+      "name": "Russia",
+      "values": [
+        22,
+        22.9,
+        22.2
+      ]
+    },
+    {
+      "iso": "MY",
+      "country": 458,
+      "name": "Malaysia",
+      "values": [
+        16.4,
+        16.7,
+        17
+      ]
+    },
+    {
+      "iso": "NP",
+      "country": 524,
+      "name": "Nepal",
+      "values": [
+        15.7,
+        16.1,
+        16.3
+      ]
+    },
+    {
+      "iso": "MX",
+      "country": 484,
+      "name": "Mexico",
+      "values": [
+        15.5,
+        15.7,
+        15.9
+      ]
+    }
+  ]
+}
